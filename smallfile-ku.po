@@ -42,6 +42,10 @@ msgstr ""
 msgid "AMP Overview"
 msgstr ""
 
+#: /views/partials/footer.j2:44
+msgid "AMP Framework 2022"
+msgstr ""
+
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
 msgstr ""
