@@ -5,7 +5,6 @@ my:
       dough:
        - eggs
        - sugar
-       - llo
        - flour
       cream:
         - sugar
